@@ -1,2 +1,2 @@
-# angryBirdsStage2StudentActivity
+# angryBirdsStage2
  Angry Birds Stage 2
